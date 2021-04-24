@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acoiman/loan_prediction/HEAD)
 <a href="https://github.com/acoiman/loan_prediction/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/acoiman/loan_prediction"></a>
 <a href="https://github.com/acoiman/loan_prediction/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/acoiman/loan_prediction"></a>
 <a href="https://github.com/acoiman/loan_prediction/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/acoiman/loan_prediction"></a>
